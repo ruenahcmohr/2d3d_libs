@@ -2,7 +2,7 @@
              CREATOR: 
                 DATE: sep 24 2000
          DESCRIPTION: finally, my general header file
-            FILENAME: danStuff.h
+            FILENAME: Stuff.h
              STARTED: sep 24 2000
 1st VERSION FINISHED: day after never
 modified nov 26 2007
