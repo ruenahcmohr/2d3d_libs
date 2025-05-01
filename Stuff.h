@@ -1,5 +1,5 @@
 /*
-             CREATOR: DAn williams
+             CREATOR: 
                 DATE: sep 24 2000
          DESCRIPTION: finally, my general header file
             FILENAME: danStuff.h
@@ -13,8 +13,8 @@ inclusive and exclusive versions of within Nov 8, 2017
 allocating string manipulation functions Dec 24 2019
 string and boolean  Sep 11 2021
 */
-#ifndef __danstuff
-#define __danstuff
+#ifndef __stuff
+#define __stuff
 
 #define _GNU_SOURCE
 #include <string.h>
