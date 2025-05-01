@@ -1,8 +1,8 @@
 /*
-             CREATOR: Rue
+             CREATOR: DAn williams
                 DATE: sep 24 2000
          DESCRIPTION: finally, my general header file
-            FILENAME: Stuff.h
+            FILENAME: danStuff.h
              STARTED: sep 24 2000
 1st VERSION FINISHED: day after never
 modified nov 26 2007
@@ -13,8 +13,8 @@ inclusive and exclusive versions of within Nov 8, 2017
 allocating string manipulation functions Dec 24 2019
 string and boolean  Sep 11 2021
 */
-#ifndef __stuff
-#define __stuff
+#ifndef __danstuff
+#define __danstuff
 
 #define _GNU_SOURCE
 #include <string.h>

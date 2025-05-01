@@ -1,4 +1,4 @@
-#include "Stuff.h"
+#include "danStuff.h"
 
 /* cut off trailing carrige return/linefeed */
 void chomp(char * string) {
